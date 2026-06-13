@@ -2014,7 +2014,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "protein-analysis-tool"
+name = "protein-visualizer"
 version = "0.1.0"
 dependencies = [
  "bytemuck",
