@@ -2014,7 +2014,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "pdbx_lua_editor"
+name = "protein-analysis-tool"
 version = "0.1.0"
 dependencies = [
  "bytemuck",
